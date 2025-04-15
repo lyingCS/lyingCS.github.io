@@ -36,6 +36,8 @@ redirect_from:
 论文发表
 ======
 
+两篇第一作者中稿论文、四篇第一作者在投论文、五篇工业界验证/推全论文。
+
 + （第一作者，中稿SIGIR'24）[Reinforcing Long-Term Performance in Recommender Systems with User-Oriented Exploration Policy](https://dl.acm.org/doi/10.1145/3626772.3657714)
   + 使用强化学习进行分位数优化提高低活用户体验，提高Session整体时长。
   + 在Tiktok直播线上得到验证（ab实验中）。
@@ -43,7 +45,7 @@ redirect_from:
   + 使用大模型与评论互动信号优化评论区停留时长预估。
   + 在快手线上得到验证（ab实验显著）。
 
-+ （非一作，中稿SIGKDD'23）[Controllable Multi-Objective Re-ranking with Policy Hypernetworks](https://dl.acm.org/doi/abs/10.1145/3580305.3599796)
++ （学生二作，中稿SIGKDD'23）[Controllable Multi-Objective Re-ranking with Policy Hypernetworks](https://dl.acm.org/doi/abs/10.1145/3580305.3599796)
   + 离线实验负责人，使用强化学习进行生成式重排序，聚焦在多目标可控推理。
   + 在阿里巴巴线上得到验证（推全）。
 
@@ -51,21 +53,21 @@ redirect_from:
   + 离线实验负责人，使用强化学习进行生成式重排序，聚焦在测试时调整模型参数，先于OpenAI-R1提出，具有前瞻性的工作。
   + 在阿里巴巴线上得到验证（推全）。
 
-+ （非一作，在投KDD'25）Industry-Scale Online Learning for GLR in E-commerce: An Environment Policy Optimization Approach
++ （学生二作，在投KDD'25）Industry-Scale Online Learning for GLR in E-commerce: An Environment Policy Optimization Approach
   + 离线实验负责人，使用强化学习进行生成式重排序，并流式更新生成器与评估器，并利用评估器（奖励函数）可导的性质深挖评估器，是一种不止对生成式重排序有效，更对大模型优化有前景的做法。
   + 在阿里巴巴线上得到验证（推全）。
-+ （一作，在投RecSys'25）[Test-Time Alignment for Tracking User Interest Shifts in Sequential Recommendation](https://arxiv.org/abs/2504.01489)
++ （第一作者，在投RecSys'25）[Test-Time Alignment for Tracking User Interest Shifts in Sequential Recommendation](https://arxiv.org/abs/2504.01489)
   + 观测到推断时用户会发生兴趣偏移，并在推断时进行自适应调整参数。
   + 在工业界应用有解决实时性问题与个性化推荐的前景。
 
-+ （一作，在投RecSys'25）[QAGCF: Graph Collaborative Filtering for Q&A Recommendation](https://arxiv.org/abs/2406.04828)
++ （第一作者，在投RecSys'25）[QAGCF: Graph Collaborative Filtering for Q&A Recommendation](https://arxiv.org/abs/2406.04828)
   + 聚焦在问答推荐场景（类似知乎），使用图神经网络解决用户-问题-回答三元组关系的协同与语义信号，并使用图滤波器解决高度异质性的问题。
-+ （一作，在投IJCAI'25）[Modeling Domain and Feedback Transitions for Cross-Domain Sequential Recommendation](https://arxiv.org/abs/2408.08209)
++ （第一作者，在投IJCAI'25）[Modeling Domain and Feedback Transitions for Cross-Domain Sequential Recommendation](https://arxiv.org/abs/2408.08209)
   + 聚焦在跨域序列推荐场景，深挖用户发生的跨域与正负反馈转换的行为。
-+ （一作，在投EMNLP'25）Reward Mixology: Crafting Hybrid Signals for
++ （第一作者，在投EMNLP'25）Reward Mixology: Crafting Hybrid Signals for
   Reinforcement Learning Driven In-Context Learning
   + 使用强化学习深挖大模型ICL能力，与生成式重排的区别在于环境为大模型或真实用户。
-+ （非一作，在投FCS）[A Survey of Controllable Learning: Methods and Applications in Information Retrieval](https://arxiv.org/abs/2407.06083)
++ （非第一作者，在投FCS）[A Survey of Controllable Learning: Methods and Applications in Information Retrieval](https://arxiv.org/abs/2407.06083)
   + 可控信息检索综述。
 
 荣誉证书
