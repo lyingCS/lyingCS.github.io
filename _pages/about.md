@@ -50,18 +50,18 @@ redirect_from:
   + 在阿里巴巴线上得到验证（推全）。
 
 + （学生一作，中稿RecSys'24）[Do Not Wait: Learning Re-Ranking Model Without User Feedback At Serving Time in E-Commerce](https://dl.acm.org/doi/abs/10.1145/3640457.3688165)
-  + 离线实验负责人，使用强化学习进行生成式重排序，聚焦在测试时调整模型参数，先于OpenAI-R1提出，具有前瞻性的工作。
+  + 离线实验负责人，使用强化学习进行生成式重排序，聚焦在推理时调整模型参数，先于OpenAI-R1提出，具有前瞻性的工作。
   + 在阿里巴巴线上得到验证（推全）。
 
 + （学生二作，在投KDD'25）Industry-Scale Online Learning for GLR in E-commerce: An Environment Policy Optimization Approach
   + 离线实验负责人，使用强化学习进行生成式重排序，并流式更新生成器与评估器，并利用评估器（奖励函数）可导的性质深挖评估器，是一种不止对生成式重排序有效，更对大模型优化有前景的做法。
   + 在阿里巴巴线上得到验证（推全）。
 + （第一作者，在投RecSys'25）[Test-Time Alignment for Tracking User Interest Shifts in Sequential Recommendation](https://arxiv.org/abs/2504.01489)
-  + 观测到推断时用户会发生兴趣偏移，并在推断时进行自适应调整参数。
+  + 观测到推断时用户会发生兴趣偏移，并在推理时进行自适应调整参数。
   + 在工业界应用有解决实时性问题与个性化推荐的前景。
 
 + （第一作者，在投RecSys'25）[QAGCF: Graph Collaborative Filtering for Q&A Recommendation](https://arxiv.org/abs/2406.04828)
-  + 聚焦在问答推荐场景（类似知乎），使用图神经网络解决用户-问题-回答三元组关系的协同与语义信号，并使用图滤波器解决高度异质性的问题。
+  + 聚焦在问答推荐场景（类似知乎），使用图神经网络解决用户-问题-回答三元组关系的协同与语义信号，并借助图滤波器解决高度异质性的问题。
 + （第一作者，在投IJCAI'25）[Modeling Domain and Feedback Transitions for Cross-Domain Sequential Recommendation](https://arxiv.org/abs/2408.08209)
   + 聚焦在跨域序列推荐场景，深挖用户发生的跨域与正负反馈转换的行为。
 + （第一作者，在投EMNLP'25）Reward Mixology: Crafting Hybrid Signals for
