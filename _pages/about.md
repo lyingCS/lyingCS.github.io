@@ -9,7 +9,7 @@ redirect_from:
 
 我目前是中国人民大学高瓴人工智能学院[中国人民大学，高瓴人工智能学院](http://ai.ruc.edu.cn/english/index.htm)的一名硕士二年级（26届）研究生。我在[IIR lab](https://ruc-iir-lab.github.io/)开展研究工作。我的导师是[张骁](https://scholar.google.com/citations?user=5FZ6wbAAAAAJ&hl=zh-CN&oi=ao)助理教授和[徐君](https://scholar.google.com/citations?user=su14mcEAAAAJ)教授。我的主要研究兴趣包括推荐系统、强化学习、生成式重排序、大语言模型、时长预估等。
 
-微信：13205201198。
+我的微信是：13205201198。
 
 教育经历
 ======
@@ -36,14 +36,14 @@ redirect_from:
 论文发表
 ======
 
-+ （第一作者，中稿SIGIR‘24）[Reinforcing Long-Term Performance in Recommender Systems with User-Oriented Exploration Policy](https://dl.acm.org/doi/10.1145/3626772.3657714)
++ （第一作者，中稿SIGIR'24）[Reinforcing Long-Term Performance in Recommender Systems with User-Oriented Exploration Policy](https://dl.acm.org/doi/10.1145/3626772.3657714)
   + 使用强化学习进行分位数优化提高低活用户体验，提高Session整体时长。
   + 在Tiktok直播线上得到验证（ab实验中）。
 + （第一作者，中稿WWW'25）[Comment Staytime Prediction with LLM-enhanced Comment Understanding](https://arxiv.org/abs/2504.01602)
   + 使用大模型与评论互动信号优化评论区停留时长预估。
   + 在快手线上得到验证（ab实验显著）。
 
-+ （非一作，中稿SIGKDD’23）[Controllable Multi-Objective Re-ranking with Policy Hypernetworks](https://dl.acm.org/doi/abs/10.1145/3580305.3599796)
++ （非一作，中稿SIGKDD'23）[Controllable Multi-Objective Re-ranking with Policy Hypernetworks](https://dl.acm.org/doi/abs/10.1145/3580305.3599796)
   + 离线实验负责人，使用强化学习进行生成式重排序，聚焦在多目标可控推理。
   + 在阿里巴巴线上得到验证（推全）。
 
