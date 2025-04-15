@@ -1,49 +1,91 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Changshuo Zhang (张昌硕)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+我目前是中国人民大学高瓴人工智能学院[中国人民大学，高瓴人工智能学院](http://ai.ruc.edu.cn/english/index.htm)的一名硕士二年级（26届）研究生。我在[IIR lab](https://ruc-iir-lab.github.io/)开展研究工作。我的导师是[张骁](https://scholar.google.com/citations?user=5FZ6wbAAAAAJ&hl=zh-CN&oi=ao)助理教授和[徐君](https://scholar.google.com/citations?user=su14mcEAAAAJ)教授。我的主要研究兴趣包括推荐系统、强化学习、生成式重排序、大语言模型、时长预估等。微信：13205201198。
 
-A data-driven personal website
+教育经历
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
++ 2019.09~2023.07，本科，电子科技大学，计算机科学与工程学院（计算机科学与技术专业）
+  + 专业排名：2/160，GPA：3.89/4.0
++ 2023.09~2026.07，硕士，中国人民大学，高瓴人工智能学院（人工智能专业）
+  + 导师：[张骁](https://scholar.google.com/citations?user=5FZ6wbAAAAAJ&hl=zh-CN&oi=ao)助理教授、[徐君](https://scholar.google.com/citations?user=su14mcEAAAAJ)教授
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+求职意向
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+正在备战26届互联网头部计划，意向求职方向：时长预估模型、生成式重排序模型、大语言模型推荐系统。
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+实习经历
+======
 
-**Markdown generator**
++ 2024.06~2025.03，快手，策略算法部-用户互动优化组
+  + 3 推全模型，1 推全策略，5 launch review，3 实验中模型，新增数据流目标，提出新数据流，中稿WWW一篇。
+  + 关键词：视频session 时长，互动时机，生成式重排，评论区时长，LT收益。
++ 2025.03~now，Tiktok，Data-Live（直播）
+  + 2 精排主模型实验中。
+  + 关键词：直播cvr，高时长预估，实时性改善，低活用户优化。
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+论文发表
+======
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
++ （第一作者，中稿SIGIR‘24）[Reinforcing Long-Term Performance in Recommender Systems with User-Oriented Exploration Policy](https://dl.acm.org/doi/10.1145/3626772.3657714)
+  + 使用强化学习进行分位数优化提高低活用户体验，提高Session整体时长。
+  + 在Tiktok直播线上得到验证（ab实验中）。
++ （第一作者，中稿WWW'25）[Comment Staytime Prediction with LLM-enhanced Comment Understanding](https://arxiv.org/abs/2504.01602)
+  + 使用大模型与评论互动信号优化评论区停留时长预估。
+  + 在快手线上得到验证（ab实验显著）。
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
++ （非一作，中稿SIGKDD’23）[Controllable Multi-Objective Re-ranking with Policy Hypernetworks](https://dl.acm.org/doi/abs/10.1145/3580305.3599796)
+  + 离线实验负责人，使用强化学习进行生成式重排序，聚焦在多目标可控推理。
+  + 在阿里巴巴线上得到验证（推全）。
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
++ （学生一作，中稿RecSys'24）[Do Not Wait: Learning Re-Ranking Model Without User Feedback At Serving Time in E-Commerce](https://dl.acm.org/doi/abs/10.1145/3640457.3688165)
+  + 离线实验负责人，使用强化学习进行生成式重排序，聚焦在测试时调整模型参数，先于OpenAI-R1提出，具有前瞻性的工作。
+  + 在阿里巴巴线上得到验证（推全）。
+
++ （非一作，在投KDD'25）Industry-Scale Online Learning for GLR in E-commerce: An Environment Policy Optimization Approach
+  + 离线实验负责人，使用强化学习进行生成式重排序，并流式更新生成器与评估器，并利用评估器（奖励函数）可导的性质深挖评估器，是一种不止对生成式重排序有效，更对大模型优化有前景的做法。
+  + 在阿里巴巴线上得到验证（推全）。
++ （一作，在投RecSys'25）[Test-Time Alignment for Tracking User Interest Shifts in Sequential Recommendation](https://arxiv.org/abs/2504.01489)
+  + 观测到推断时用户会发生兴趣偏移，并在推断时进行自适应调整参数。
+  + 在工业界应用有解决实时性问题与个性化推荐的前景。
+
++ （一作，在投RecSys'25）[QAGCF: Graph Collaborative Filtering for Q&A Recommendation](https://arxiv.org/abs/2406.04828)
+  + 聚焦在问答推荐场景（类似知乎），使用图神经网络解决用户-问题-回答三元组关系的协同与语义信号，并使用图滤波器解决高度异质性的问题。
++ （一作，在投IJCAI'25）[Modeling Domain and Feedback Transitions for Cross-Domain Sequential Recommendation](https://arxiv.org/abs/2408.08209)
+  + 聚焦在跨域序列推荐场景，深挖用户发生的跨域与正负反馈转换的行为。
++ （一作，在投EMNLP'25）Reward Mixology: Crafting Hybrid Signals for
+  Reinforcement Learning Driven In-Context Learning
+  + 使用强化学习深挖大模型ICL能力，与生成式重排的区别在于环境为大模型或真实用户。
++ （非一作，在投FCS）[A Survey of Controllable Learning: Methods and Applications in Information Retrieval](https://arxiv.org/abs/2407.06083)
+  + 可控信息检索综述。
+
+荣誉证书
+======
+
++ 2020-2021 国家奖学金
++ 四川省优秀大学毕业生
++ 第十二届蓝桥杯大赛软件组全国总决赛 国家级一等奖（前 0.5%）
++ 2021 高教社杯全国大学生数学建模竞赛 国家级二等奖（前 2.78%）
++ 2021 美国大学生数学建模竞赛 Meritorious Winner（前 7%）
++ CCF 计算机软件能力认证 350 分（前 1.93%）
++ 第三届算法设计与编程挑战赛 银奖（前 15%）
+
+技术专长
+======
+
++ 编程语言: C、C++、Matlab、Python、Java、SQL。
++ 算法: LeetCode网站 TOP3.2%、解题 800+。
++ 英语: CET4 与CET6通过。
++ 其他技能: Git、Vim、Latex、Linux、TensorFlow、Pytorch、Qt 等等。
+
+工作经历
+======
+
+本科阶段曾担任**学习委员**并连续两年评选为**“优秀班干部”**且曾获学生会**“优秀部员”**称号，研究生阶段担任**校职业发展部部员**。
