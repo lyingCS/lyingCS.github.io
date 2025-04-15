@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-我目前是中国人民大学高瓴人工智能学院[中国人民大学，高瓴人工智能学院](http://ai.ruc.edu.cn/english/index.htm)的一名硕士二年级（26届）研究生。我在[IIR lab](https://ruc-iir-lab.github.io/)开展研究工作。我的导师是[张骁](https://scholar.google.com/citations?user=5FZ6wbAAAAAJ&hl=zh-CN&oi=ao)助理教授和[徐君](https://scholar.google.com/citations?user=su14mcEAAAAJ)教授。我的主要研究兴趣包括推荐系统、强化学习、生成式重排序、大语言模型、时长预估等。
-
-我的微信是：13205201198。
+我目前是[中国人民大学，高瓴人工智能学院](http://ai.ruc.edu.cn/english/index.htm)的一名硕士二年级（26届）研究生。我在[IIR lab](https://ruc-iir-lab.github.io/)开展研究工作。我的导师是[张骁](https://scholar.google.com/citations?user=5FZ6wbAAAAAJ&hl=zh-CN&oi=ao)助理教授和[徐君](https://scholar.google.com/citations?user=su14mcEAAAAJ)教授。我的主要研究兴趣包括推荐系统、强化学习、生成式重排序、大语言模型、时长预估等。我的微信是：13205201198。
 
 教育经历
 ======
