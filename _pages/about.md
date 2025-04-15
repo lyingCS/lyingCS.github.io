@@ -85,7 +85,7 @@ redirect_from:
 ======
 
 + 编程语言: C、C++、Matlab、Python、Java、SQL。
-+ 算法: LeetCode网站 TOP3.2%、解题 800+。
++ 算法: [LeetCode](https://leetcode.cn/u/lyingcs/)网站 TOP3.2%、解题 800+。
 + 英语: CET4 与CET6通过。
 + 其他技能: Git、Vim、Latex、Linux、TensorFlow、Pytorch、Qt 等等。
 
