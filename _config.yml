@@ -13,7 +13,7 @@ title                    : "Changshuo Zhang"
 title_separator          : "-"
 name                     : &name "Changshuo Zhang"
 description              : &description "Time is money."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://lyingcs.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://lyingcs.github.io"
 
@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "做有趣、能落地的研究"
   location         : "Beijing, China"
-  employer         : "Renmin University University"
+  employer         : "Renmin University of China"
   uri              : # URL
   email            : "lyingCS@foxmail.com" 
 
