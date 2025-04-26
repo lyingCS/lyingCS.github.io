@@ -62,7 +62,7 @@ redirect_from:
 
 + （第一作者，在投RecSys'25）[QAGCF: Graph Collaborative Filtering for Q&A Recommendation](https://arxiv.org/abs/2406.04828)
   + 聚焦在问答推荐场景（类似知乎），使用图神经网络解决用户-问题-回答三元组关系的协同与语义信号，并借助图滤波器解决高度异质性的问题。
-+ （第一作者，在投IJCAI'25）[Modeling Domain and Feedback Transitions for Cross-Domain Sequential Recommendation](https://arxiv.org/abs/2408.08209)
++ （第一作者，在投CIKM'25）[Modeling Domain and Feedback Transitions for Cross-Domain Sequential Recommendation](https://arxiv.org/abs/2408.08209)
   + 聚焦在跨域序列推荐场景，深挖用户发生的跨域与正负反馈转换的行为。
 + （第一作者，在投EMNLP'25）Reward Mixology: Crafting Hybrid Signals for
   Reinforcement Learning Driven In-Context Learning
