@@ -26,7 +26,7 @@ redirect_from:
 
 + 2024.06~2025.03，快手，策略算法部-用户互动优化组
   + 主导：2 推全模型，1 推全策略，4 launch review，3 实验中模型，新增数据流目标，提出新数据流，中稿WWW一篇。
-  + 参与：1推全模型。
+  + 参与：1 推全模型。
   + 关键词：视频session 时长，互动时机，生成式重排，评论区时长，LT收益。
 + 2025.03~now，Tiktok，Data-Live（直播）
   + 主导：1 精排主模型实验中，1 精排模型实验中。
@@ -66,7 +66,7 @@ redirect_from:
   + 聚焦在跨域序列推荐场景，深挖用户发生的跨域与正负反馈转换的行为。
 + （第一作者，在投EMNLP'25）Reward Mixology: Crafting Hybrid Signals for
   Reinforcement Learning Driven In-Context Learning
-  + 使用强化学习深挖大模型ICL能力，与生成式重排的区别在于环境为大模型或真实用户。
+  + 将示例选取建立为MDP过程，使用强化学习深挖大模型ICL能力。
 + （非第一作者，在投FCS）[A Survey of Controllable Learning: Methods and Applications in Information Retrieval](https://arxiv.org/abs/2407.06083)
   + 可控信息检索综述。
 
