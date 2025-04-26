@@ -47,7 +47,7 @@ redirect_from:
 
 + （学生二作，中稿SIGKDD'23）[Controllable Multi-Objective Re-ranking with Policy Hypernetworks](https://dl.acm.org/doi/abs/10.1145/3580305.3599796)
   + 离线实验负责人，使用强化学习进行生成式重排序，聚焦在多目标可控推理。
-  + 阿里巴巴线上验证（推全），快手线上验证。
+  + 阿里巴巴线上验证（推全），快手线上验证（ab实验显著）。
 
 + （学生一作，中稿RecSys'24）[Do Not Wait: Learning Re-Ranking Model Without User Feedback At Serving Time in E-Commerce](https://dl.acm.org/doi/abs/10.1145/3640457.3688165)
   + 离线实验负责人，使用强化学习进行生成式重排序，聚焦在推理时调整模型参数，先于OpenAI-R1提出，具有前瞻性的工作。
