@@ -36,7 +36,7 @@ redirect_from:
 论文发表
 ======
 
-两篇第一作者中稿论文、四篇第一作者在投论文、五篇工业界验证/推全论文。
+两篇第一作者中稿论文（CCF-A）、四篇第一作者在投论文、五篇工业界验证/推全论文。
 
 + （第一作者，中稿SIGIR'24）[Reinforcing Long-Term Performance in Recommender Systems with User-Oriented Exploration Policy](https://dl.acm.org/doi/10.1145/3626772.3657714)
   + 使用强化学习进行分位数优化提高低活用户体验，提高session整体时长。
