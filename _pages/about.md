@@ -25,9 +25,9 @@ redirect_from:
 ======
 
 + 2024.06~2025.03，快手，策略算法部-用户互动优化组
-  + 主导：2\*推全模型，1\*推全策略，4\*launch review，3\*实验中模型，1\*新增数据流目标，1\*提出新数据流，中稿WWW一篇。
++ 主导：2\*推全模型，1\*推全策略，4\*launch review，3\*实验中模型，1\*新增数据流目标，1\*提出新数据流，中稿WWW一篇。
   + 参与：1\*推全模型。
-  + 关键词：视频session 时长，互动时机，生成式重排，评论区时长，LT收益。
+  + 关键词：视频session时长，互动时机，生成式重排，评论区时长，LT收益。
 + 2025.03~now，Tiktok，Data-Live（直播）
   + 主导：1\*精排主模型实验中，1\*精排主模型实验中，1*精排模型备LR。
   + 参与：1\*精排主模型已LR。
@@ -39,8 +39,8 @@ redirect_from:
 两篇第一作者中稿论文、五篇第一作者在投论文、七篇工业界验证/推全论文。
 
 + （第一作者，中稿SIGIR'24）[Reinforcing Long-Term Performance in Recommender Systems with User-Oriented Exploration Policy](https://dl.acm.org/doi/10.1145/3626772.3657714)
-  + 使用强化学习进行分位数优化提高低活用户体验，提高session整体时长。
-  + Tiktok直播线上验证显著。
+  + 使用强化学习进行个性化分位数优化提高不同活跃度用户体验，提高session整体时长。
+  + Tiktok直播线上验证（ab实验显著）。
 + （第一作者，中稿WWW'25）[Comment Staytime Prediction with LLM-enhanced Comment Understanding](https://arxiv.org/abs/2504.01602)
   + 使用大模型与评论互动信号优化评论区停留时长预估。
   + 快手线上验证（ab实验显著）。
@@ -65,7 +65,7 @@ redirect_from:
   + 将示例选取建立为MDP过程，使用强化学习深挖大模型ICL能力。
 + （第一作者，在投NIPS'25）Activity-Driven Quantile Optimization: Dynamic Exploration and Exploitation in Recommender Systems
   + 为不同的用户活跃度设定个性化分位数进行优化，探索低活兴趣并保证高活留存。
-  + Tiktok直播线上验证显著。
+  + Tiktok直播线上验证（ab实验显著）。
 + （第二作者，在投CIKM'25）Towards Unbiased and Real-Time Staytime Prediction for Live Streaming Recommendation
   + 提出直播推荐的两大难点：时效性与预估准确性，并提出多塔分类模型进行debias。
   + Tiktok现base主精排模型。
