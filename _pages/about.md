@@ -63,7 +63,7 @@ redirect_from:
 + （第一作者，在投EMNLP'25）Reward Mixology: Crafting Hybrid Signals for
   Reinforcement Learning Driven In-Context Learning
   + 将示例选取建立为MDP过程，使用强化学习深挖大模型ICL能力。
-+ （单独作者，在投NIPS'25）Activity-Driven Quantile Optimization: Dynamic Exploration and Exploitation in Recommender Systems
++ （单独作者，在投NeurIPS'25）Activity-Driven Quantile Optimization: Dynamic Exploration and Exploitation in Recommender Systems
   + 为不同的用户活跃度设定个性化分位数进行优化，探索低活兴趣并保证高活留存。
   + Tiktok直播线上验证（ab实验显著）。
 + （第二作者，在投CIKM'25）Towards Unbiased and Real-Time Staytime Prediction for Live Streaming Recommendation
