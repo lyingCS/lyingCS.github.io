@@ -38,10 +38,10 @@ redirect_from:
 
 两篇第一作者中稿论文、五篇第一作者在投论文、七篇工业界验证/推全论文。
 
-+ （第一作者，中稿SIGIR'24）[Reinforcing Long-Term Performance in Recommender Systems with User-Oriented Exploration Policy](https://dl.acm.org/doi/10.1145/3626772.3657714)
++ （第一作者，中稿SIGIR'24，评选为Oral）[Reinforcing Long-Term Performance in Recommender Systems with User-Oriented Exploration Policy](https://dl.acm.org/doi/10.1145/3626772.3657714)
   + 使用强化学习进行个性化分位数优化提高不同活跃度用户体验，提高session整体时长。
   + Tiktok直播线上验证（ab实验显著）。
-+ （第一作者，中稿WWW'25）[Comment Staytime Prediction with LLM-enhanced Comment Understanding](https://arxiv.org/abs/2504.01602)
++ （第一作者，中稿WWW'25，评选为Oral）[Comment Staytime Prediction with LLM-enhanced Comment Understanding](https://arxiv.org/abs/2504.01602)
   + 使用大模型与评论互动信号优化评论区停留时长预估。
   + 快手线上验证（ab实验显著）。
 + （学生二作，中稿SIGKDD'23）[Controllable Multi-Objective Re-ranking with Policy Hypernetworks](https://dl.acm.org/doi/abs/10.1145/3580305.3599796)
