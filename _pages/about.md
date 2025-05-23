@@ -39,7 +39,7 @@ redirect_from:
 两篇第一作者中稿论文、五篇第一作者在投论文、七篇工业界验证/推全论文。
 
 + （第一作者，中稿SIGIR'24，评选为Oral）[Reinforcing Long-Term Performance in Recommender Systems with User-Oriented Exploration Policy](https://dl.acm.org/doi/10.1145/3626772.3657714)
-  + 使用强化学习进行个性化分位数优化提高不同活跃度用户体验，提高session整体时长。
+  + 使用强化学习进行个性化分位数优化提高不同活跃度用户体验，提高session深度。
   + Tiktok直播线上验证（ab实验显著）。
 + （第一作者，中稿WWW'25，评选为Oral）[Comment Staytime Prediction with LLM-enhanced Comment Understanding](https://arxiv.org/abs/2504.01602)
   + 使用大模型与评论互动信号优化评论区停留时长预估。
@@ -47,7 +47,7 @@ redirect_from:
 + （学生二作，中稿SIGKDD'23）[Controllable Multi-Objective Re-ranking with Policy Hypernetworks](https://dl.acm.org/doi/abs/10.1145/3580305.3599796)
   + 离线实验负责人，使用强化学习进行生成式重排序，聚焦在多目标可控推理。
   + 阿里巴巴线上验证（推全），快手线上验证（ab实验显著）。
-+ （学生一作，中稿RecSys'24）[Do Not Wait: Learning Re-Ranking Model Without User Feedback At Serving Time in E-Commerce](https://dl.acm.org/doi/abs/10.1145/3640457.3688165)
++ （学生一作，中稿RecSys'24）[Do Not Wait: Learning Re-ranking Model Without User Feedback At Serving Time in E-Commerce](https://dl.acm.org/doi/abs/10.1145/3640457.3688165)
   + 离线实验负责人，使用强化学习进行生成式重排序，聚焦在推理时调整模型参数，先于OpenAI-R1提出，具有前瞻性的工作。
   + 阿里巴巴线上验证（推全）。
 + （学生二作，在投KDD'25）Industry-Scale Online Learning for GLR in E-commerce: An Environment Policy Optimization Approach
@@ -68,7 +68,7 @@ redirect_from:
   + Tiktok直播线上验证（ab实验显著）。
 + （第二作者，在投CIKM'25）Towards Unbiased and Real-Time Staytime Prediction for Live Streaming Recommendation
   + 提出直播推荐的两大难点：时效性与预估准确性，并提出多塔分类模型进行debias。
-  + Tiktok现base主精排模型。
+  + Tiktok直播现base主精排模型。
 + （非第一作者，在投FCS）[A Survey of Controllable Learning: Methods and Applications in Information Retrieval](https://arxiv.org/abs/2407.06083)
   + 可控信息检索综述。
 
