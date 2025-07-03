@@ -59,7 +59,7 @@ redirect_from:
 + （学生二作，在投KDD'25）Industry-Scale Online Learning for GLR in E-commerce: An Environment Policy Optimization Approach
   + 离线实验负责人，使用强化学习进行生成式重排序，并流式更新生成器与评估器，并利用评估器（奖励模型/环境）可导的性质深挖评估器，是一种不止对生成式重排序有效，更对大模型优化有前景的做法。
   + 阿里巴巴线上验证（推全）。
-+ （第一作者，在投RecSys'25）[Test-Time Alignment for Tracking User Interest Shifts in Sequential Recommendation](https://arxiv.org/abs/2504.01489)
++ （第一作者，中稿RecSys'25，评选为Oral）[Test-Time Alignment for Tracking User Interest Shifts in Sequential Recommendation](https://arxiv.org/abs/2504.01489)
   + 观测到推断时用户会发生兴趣偏移，并在推理时进行自适应调整参数。
   + 在工业界应用有解决实时性问题与更加个性化推荐的前景。
 + （第一作者，在投RecSys'25）[QAGCF: Graph Collaborative Filtering for Q&A Recommendation](https://arxiv.org/abs/2406.04828)
