@@ -14,7 +14,7 @@ redirect_from:
 + 2019.09~2023.07，本科，电子科技大学，计算机科学与工程学院（计算机科学与技术专业）
   + 专业排名：2/160，GPA：3.89/4.0
 + 2023.09~2026.07，硕士，中国人民大学，高瓴人工智能学院（人工智能专业）
-  + 导师：[张骁](https://scholar.google.com/citations?user=5FZ6wbAAAAAJ&hl=zh-CN&oi=ao)助理教授、[徐君](https://scholar.google.com/citations?user=su14mcEAAAAJ)教授
+  + 导师：[张骁](https://scholar.google.com/citations?user=5FZ6wbAAAAAJ&hl=zh-CN&oi=ao)副教授、[徐君](https://scholar.google.com/citations?user=su14mcEAAAAJ)教授
 
 求职意向
 ======
