@@ -44,15 +44,15 @@ redirect_from:
 + （第一作者，中稿WWW'25，评选为Oral）[Comment Staytime Prediction with LLM-enhanced Comment Understanding](https://dl.acm.org/doi/10.1145/3701716.3715213)
   + 使用大模型与评论互动信号优化评论区停留时长预估。
   + 快手线上验证（ab实验显著）。
++ （第一作者，中稿RecSys'25，评选为Oral）[Test-Time Alignment for Tracking User Interest Shifts in Sequential Recommendation](https://arxiv.org/abs/2504.01489)
+  + 观测到推断时用户会发生兴趣偏移，并在推理时进行自适应调整参数。
+  + 在工业界应用有解决实时性问题与更加个性化推荐的前景。
 + （学生二作，中稿SIGKDD'23）[Controllable Multi-Objective Re-ranking with Policy Hypernetworks](https://dl.acm.org/doi/abs/10.1145/3580305.3599796)
   + 离线实验负责人，使用强化学习进行生成式重排序，聚焦在多目标可控推理。
   + 阿里巴巴线上验证（推全），快手线上验证（ab实验显著）。
 + （学生一作，中稿RecSys'24）[Do Not Wait: Learning Re-ranking Model Without User Feedback At Serving Time in E-Commerce](https://dl.acm.org/doi/abs/10.1145/3640457.3688165)
-  + 离线实验负责人，使用强化学习进行生成式重排序，聚焦在推理时调整模型参数，先于OpenAI-R1提出，具有前瞻性的工作。
+  + 离线实验负责人，使用强化学习进行生成式重排序，聚焦在推理时调整模型参数，先于OpenAI-o1提出，具有前瞻性的工作。
   + 阿里巴巴线上验证（推全）。
-+ （第一作者，中稿RecSys'25，评选为Oral）[Test-Time Alignment for Tracking User Interest Shifts in Sequential Recommendation](https://arxiv.org/abs/2504.01489)
-  + 观测到推断时用户会发生兴趣偏移，并在推理时进行自适应调整参数。
-  + 在工业界应用有解决实时性问题与更加个性化推荐的前景。
 + （单独作者，在投NeurIPS'25）Activity-Driven Quantile Optimization: Dynamic Exploration and Exploitation in Recommender Systems
   + 为不同的用户活跃度设定个性化分位数进行优化，探索低活兴趣并保证高活留存。
   + Tiktok直播线上验证（ab实验显著）。
@@ -69,8 +69,8 @@ redirect_from:
 + （第一作者，在投EMNLP'25）Reward Mixology: Crafting Hybrid Signals for
   Reinforcement Learning Driven In-Context Learning
   + 将示例选取建立为MDP过程，使用强化学习深挖大模型ICL能力。
-+ （非第一作者，在投FCS）[A Survey of Controllable Learning: Methods and Applications in Information Retrieval](https://arxiv.org/abs/2407.06083)
-  + 可控信息检索综述。
++ （非第一作者，中稿FCS）[A Survey of Controllable Learning: Methods and Applications in Information Retrieval](https://arxiv.org/abs/2407.06083)
+  + 可控信息检索综述，旨在让推荐模型在无需重新训练的情况下，动态适应不断变化的任务目标，应对复杂多变的用户需求。
 
 荣誉证书
 ======
