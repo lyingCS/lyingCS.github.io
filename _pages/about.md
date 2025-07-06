@@ -59,10 +59,10 @@ redirect_from:
 + （第二作者，在投CIKM'25）Towards Unbiased and Real-Time Staytime Prediction for Live Streaming Recommendation
   + 提出直播推荐的两大难点：时效性与预估准确性，并提出多塔分类模型进行debias。
   + Tiktok直播现base主精排模型。
-+ （学生二作，在投KDD'25）Industry-Scale Online Learning for GLR in E-commerce: An Environment Policy Optimization Approach
++ （学生二作，在投WWW'25）Industry-Scale Online Learning for GLR in E-commerce: An Environment Policy Optimization Approach
   + 离线实验负责人，使用强化学习进行生成式重排序，并流式更新生成器与评估器，并利用评估器（奖励模型/环境）可导的性质深挖评估器，是一种不止对生成式重排序有效，更对大模型优化有前景的做法。
   + 阿里巴巴线上验证（推全）。
-+ （第一作者，在投RecSys'25）[QAGCF: Graph Collaborative Filtering for Q&A Recommendation](https://arxiv.org/abs/2406.04828)
++ （第一作者，在投SIGKDD'26）[QAGCF: Graph Collaborative Filtering for Q&A Recommendation](https://arxiv.org/abs/2406.04828)
   + 聚焦在问答推荐场景（类似知乎），使用图神经网络解耦用户-问题-回答三元组关系的协同与语义信号，并借助图滤波器解决高度异质性的问题。
 + （第一作者，在投CIKM'25）[Modeling Domain and Feedback Transitions for Cross-Domain Sequential Recommendation](https://arxiv.org/abs/2408.08209)
   + 聚焦在跨域序列推荐场景，深挖用户发生的跨域与正负反馈转换的行为。
