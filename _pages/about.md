@@ -36,7 +36,7 @@ redirect_from:
 技术栈
 ======
 
-+ 生成式推荐系统（强化学习for推荐系统）
++ 生成式推荐模型（强化学习for推荐系统）
   + _Better Exploration and exploitation for long-term reward!_
   + KDD + RecSys + SIGIR + NIPS[submitting] + WWW[submitting] + n*LR
 + 奖励模型（时长预估模型）
