@@ -82,7 +82,7 @@ redirect_from:
   Reinforcement Learning Driven In-Context Learning
   + 将示例选取建立为MDP过程，使用强化学习深挖大模型ICL能力。
 + （非第一作者，中稿FCS）[A Survey of Controllable Learning: Methods and Applications in Information Retrieval](https://arxiv.org/abs/2407.06083)
-  + 可控信息检索综述，旨在让推荐模型在无需重新训练的情况下，动态适应不断变化的任务目标，应对复杂多变的用户需求。
+  + 可控信息检索综述，旨在让推荐模型在无需重新训练的情况下，动态适应不断变化的任务目标，应对复杂多变的用户/平台需求。
 
 荣誉证书
 ======
