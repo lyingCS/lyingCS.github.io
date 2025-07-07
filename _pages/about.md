@@ -31,7 +31,7 @@ redirect_from:
   + _Provide a better reward!_
   + WWW + CIKM[submitting] + n*LR
 + 其他工作（图神经网络、大语言模型、序列推荐）
-  + RecSys + KDD[submitting] + CIKM[submitting] + EMNLP[submitting]
+  + RecSys + FCS + KDD[submitting] + CIKM[submitting] + EMNLP[submitting]
 
 实习经历
 ======
