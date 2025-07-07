@@ -32,6 +32,18 @@ redirect_from:
   + 主导：1\*精排主cvr模型备LR，1*精排模型备LR，多个精排主cvr模型迭代中。
   + 参与：二作投稿CIKM一篇，1\*精排模型已LR。
   + 关键词：直播cvr，高时长预估，实时性改善，个性化分位数，低活用户优化。
+ 
+技术栈
+======
+
++ 生成式推荐系统（强化学习for推荐系统）
+  + _Better Exploration and exploitation for long-term reward!_
+  + KDD + RecSys + SIGIR + NIPS[submitting] + WWW[submitting] + n*LR
++ 奖励模型（时长预估模型）
+  + _Provide a better reward!_
+  + WWW + CIKM[submitting] + n*LR
++ 其他工作（图神经网络、大语言模型、序列推荐）
+  + RecSys + KDD[submitting] + CIKM[submitting] + EMNLP[submitting]
 
 论文发表
 ======
