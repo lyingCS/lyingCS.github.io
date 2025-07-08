@@ -25,7 +25,7 @@ redirect_from:
 ======
 
 + 生成式推荐模型（强化学习for推荐系统）
-  + _Better Exploration and exploitation towards long-term reward!_
+  + _Better exploration and exploitation towards long-term reward!_
   + KDD + RecSys + SIGIR + NIPS[submitting] + WWW[submitting] + n*LR
 + 奖励模型（时长预估模型）
   + _Provide a better reward!_
