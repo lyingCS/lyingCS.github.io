@@ -29,7 +29,7 @@ redirect_from:
   + KDD + RecSys + SIGIR + NIPS[submitting] + WWW[submitting] + n*LR
 + 奖励模型（时长预估模型）
   + _Provide a better reward!_
-  + WWW + CIKM[submitting] + n*LR
+  + WWW + CIKM + n*LR
 + 其他工作（图神经网络、大语言模型、序列推荐）
   + RecSys + FCS + KDD[submitting] + CIKM[submitting] + EMNLP[submitting] + AAAI[submitting]
 
@@ -42,7 +42,7 @@ redirect_from:
   + 关键词：视频session时长，互动时机，生成式重排，评论区时长，LT收益。
 + 2025.03~now，Tiktok，Data-Live（直播）
   + 主导：1\*精排主cvr模型备LR，1*精排模型备LR，多个精排主cvr模型迭代中。
-  + 参与：二作投稿CIKM一篇，1\*精排模型已LR。
+  + 参与：中稿CIKM一篇，1\*精排模型已LR。
   + 关键词：直播cvr，高时长预估，实时性改善，个性化分位数，低活用户优化。
 
 论文发表
@@ -59,6 +59,9 @@ redirect_from:
 + （第一作者，中稿RecSys'25，评选为Spotlight Oral）[Test-Time Alignment for Tracking User Interest Shifts in Sequential Recommendation](https://arxiv.org/abs/2504.01489)
   + 观测到推断时用户会发生兴趣偏移，并在推理时进行自适应调整参数。
   + 在工业界应用有解决实时性问题与更加个性化推荐的前景。
++ （学生一作，中稿CIKM'25）Towards Unbiased and Real-Time Staytime Prediction for Live Streaming Recommendation
+  + 提出直播推荐的两大难点：时效性与预估准确性，并提出多塔分类模型进行debias。
+  + Tiktok直播现base主精排模型。
 + （学生二作，中稿KDD'23，评选为Oral）[Controllable Multi-Objective Re-ranking with Policy Hypernetworks](https://dl.acm.org/doi/abs/10.1145/3580305.3599796)
   + 离线实验负责人，使用强化学习进行生成式重排序，聚焦在多目标可控推理。
   + 阿里巴巴线上验证（推全），快手线上验证（ab实验显著）。
@@ -68,9 +71,6 @@ redirect_from:
 + （单独作者，在投NeurIPS'25）Activity-Driven Quantile Optimization: Dynamic Exploration and Exploitation in Recommender Systems
   + 为不同的用户活跃度设定个性化分位数进行优化，探索低活兴趣并保证高活留存。
   + Tiktok直播线上验证（ab实验显著）。
-+ （第二作者，在投CIKM'25）Towards Unbiased and Real-Time Staytime Prediction for Live Streaming Recommendation
-  + 提出直播推荐的两大难点：时效性与预估准确性，并提出多塔分类模型进行debias。
-  + Tiktok直播现base主精排模型。
 + （学生二作，在投WWW'26）Industry-Scale Online Learning for GLR in E-commerce: An Environment Policy Optimization Approach
   + 离线实验负责人，使用强化学习进行生成式重排序，并流式更新生成器与评估器，并利用评估器（奖励模型/环境）可导的性质深挖评估器，是一种不止对生成式重排序有效，更对大模型优化有前景的做法。
   + 阿里巴巴线上验证（推全）。
