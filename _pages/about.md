@@ -68,7 +68,7 @@ redirect_from:
 + （学生一作，中稿RecSys'24，评选为Poster）[Do Not Wait: Learning Re-ranking Model Without User Feedback At Serving Time in E-Commerce](https://dl.acm.org/doi/abs/10.1145/3640457.3688165)
   + 离线实验负责人，使用强化学习进行生成式重排序，聚焦在推理时调整模型参数，先于OpenAI-o1提出，具有前瞻性的工作。
   + 阿里巴巴线上验证（推全）。
-+ （第一作者，中稿EMNLP'25）Reward Mixology: Crafting Hybrid Signals for Reinforcement Learning Driven In-Context Learning
++ （第一作者，中稿EMNLP'25，评选为Poster）Reward Mixology: Crafting Hybrid Signals for Reinforcement Learning Driven In-Context Learning
   + 将示例选取建立为MDP过程，使用强化学习深挖大模型ICL能力。
 + （单独作者，在投NeurIPS'25）Activity-Driven Quantile Optimization: Dynamic Exploration and Exploitation in Recommender Systems
   + 为不同的用户活跃度设定个性化分位数进行优化，探索低活兴趣并保证高活留存。
