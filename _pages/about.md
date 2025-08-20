@@ -48,7 +48,7 @@ redirect_from:
 论文发表
 ======
 
-三篇第一作者中稿论文、四篇第一作者在投论文、七篇工业界验证/推全论文。
+四篇第一作者中稿论文、四篇第一作者在投论文、七篇工业界验证/推全论文。
 
 + （第一作者，中稿SIGIR'24，评选为Oral）[Reinforcing Long-Term Performance in Recommender Systems with User-Oriented Exploration Policy](https://dl.acm.org/doi/10.1145/3626772.3657714)
   + 使用强化学习进行个性化分位数优化提高不同活跃度用户体验，提高session深度。
@@ -68,6 +68,8 @@ redirect_from:
 + （学生一作，中稿RecSys'24，评选为Poster）[Do Not Wait: Learning Re-ranking Model Without User Feedback At Serving Time in E-Commerce](https://dl.acm.org/doi/abs/10.1145/3640457.3688165)
   + 离线实验负责人，使用强化学习进行生成式重排序，聚焦在推理时调整模型参数，先于OpenAI-o1提出，具有前瞻性的工作。
   + 阿里巴巴线上验证（推全）。
++ （第一作者，中稿EMNLP'25）Reward Mixology: Crafting Hybrid Signals for Reinforcement Learning Driven In-Context Learning
+  + 将示例选取建立为MDP过程，使用强化学习深挖大模型ICL能力。
 + （单独作者，在投NeurIPS'25）Activity-Driven Quantile Optimization: Dynamic Exploration and Exploitation in Recommender Systems
   + 为不同的用户活跃度设定个性化分位数进行优化，探索低活兴趣并保证高活留存。
   + Tiktok直播线上验证（ab实验显著）。
@@ -78,9 +80,6 @@ redirect_from:
   + 聚焦在问答推荐场景（类似知乎），使用图神经网络解耦用户-问题-回答三元组关系的协同与语义信号，并借助图滤波器解决高度异质性的问题。
 + （第一作者，在投CIKM'25）[Modeling Domain and Feedback Transitions for Cross-Domain Sequential Recommendation](https://arxiv.org/abs/2408.08209)
   + 聚焦在跨域序列推荐场景，深挖用户发生的跨域与正负反馈转换的行为。
-+ （第一作者，在投EMNLP'25）Reward Mixology: Crafting Hybrid Signals for
-  Reinforcement Learning Driven In-Context Learning
-  + 将示例选取建立为MDP过程，使用强化学习深挖大模型ICL能力。
 + （非第一作者，中稿FCS，入选优青论坛）[A Survey of Controllable Learning: Methods and Applications in Information Retrieval](https://arxiv.org/abs/2407.06083)
   + 可控信息检索综述，旨在让推荐模型在无需重新训练的情况下，动态适应不断变化的任务目标，应对复杂多变的用户/平台需求。
 
