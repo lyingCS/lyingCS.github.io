@@ -66,7 +66,7 @@ redirect_from:
   + 离线实验负责人，使用强化学习进行生成式重排序，聚焦在多目标可控推理。
   + 阿里巴巴线上验证（推全），快手线上验证（ab实验显著）。
 + （学生一作，中稿RecSys'24，评选为Poster）[Do Not Wait: Learning Re-ranking Model Without User Feedback At Serving Time in E-Commerce](https://dl.acm.org/doi/abs/10.1145/3640457.3688165)
-  + 离线实验负责人，使用强化学习进行生成式重排序，聚焦在推理时调整模型参数，先于OpenAI-o1提出，具有前瞻性的工作。
+  + 离线实验负责人，使用强化学习进行生成式重排序，聚焦在推理时调整模型参数。
   + 阿里巴巴线上验证（推全）。
 + （第一作者，中稿EMNLP'25，评选为Poster）Reward Mixology: Crafting Hybrid Signals for Reinforcement Learning Driven In-Context Learning
   + 将示例选取建立为MDP过程，使用强化学习深挖大模型ICL能力。
@@ -74,7 +74,7 @@ redirect_from:
   + 为不同的用户活跃度设定个性化分位数进行优化，探索低活兴趣并保证高活留存。
   + Tiktok直播线上验证（ab实验显著）。
 + （学生二作，在投WWW'26）Industry-Scale Online Learning for GLR in E-commerce: An Environment Policy Optimization Approach
-  + 离线实验负责人，借助评估器可导的性质端到端优化两阶段生成式重排序，使其更适应流式场景。
+  + 离线实验负责人，借助评估器可导性质端到端优化两阶段生成式重排序适应流式场景。
   + 阿里巴巴线上验证（推全）。
 + （第一作者，在投KDD'26）[QAGCF: Graph Collaborative Filtering for Q&A Recommendation](https://arxiv.org/abs/2406.04828)
   + 聚焦在问答推荐场景（类似知乎），使用图神经网络解耦用户-问题-回答三元组关系的协同与语义信号，并借助图滤波器解决高度异质性的问题。
