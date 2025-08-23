@@ -74,7 +74,7 @@ redirect_from:
   + 为不同的用户活跃度设定个性化分位数进行优化，探索低活兴趣并保证高活留存。
   + Tiktok直播线上验证（ab实验显著）。
 + （学生二作，在投WWW'26）Industry-Scale Online Learning for GLR in E-commerce: An Environment Policy Optimization Approach
-  + 离线实验负责人，借助评估器可导的性质端到端优化生成式重排序，使其更适应流式场景。
+  + 离线实验负责人，借助评估器可导的性质端到端优化两阶段生成式重排序，使其更适应流式场景。
   + 阿里巴巴线上验证（推全）。
 + （第一作者，在投KDD'26）[QAGCF: Graph Collaborative Filtering for Q&A Recommendation](https://arxiv.org/abs/2406.04828)
   + 聚焦在问答推荐场景（类似知乎），使用图神经网络解耦用户-问题-回答三元组关系的协同与语义信号，并借助图滤波器解决高度异质性的问题。
