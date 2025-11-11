@@ -31,7 +31,7 @@ redirect_from:
   + _Provide a better reward!_
   + WWW + CIKM + n*LR
 + 其他工作（大语言模型、序列推荐、图神经网络）
-  + EMNLP + RecSys + FCS + KDD[submitting] + CIKM[submitting] + AAAI[submitting]
+  + EMNLP + RecSys + FCS + KDD[submitting] + WWW[submitting] + SIGIR[submitting]
 
 实习经历
 ======
@@ -48,7 +48,7 @@ redirect_from:
 论文发表
 ======
 
-四篇第一作者中稿论文、四篇第一作者在投论文（两篇独立作者）、七篇工业界验证/推全论文。
+五篇第一作者中稿论文、五篇第一作者在投论文（两篇独立作者）、七篇工业界验证/推全论文。
 
 + （第一作者，中稿SIGIR'24，评选为Oral）[Reinforcing Long-Term Performance in Recommender Systems with User-Oriented Exploration Policy](https://dl.acm.org/doi/10.1145/3626772.3657714)
   + 使用强化学习进行个性化分位数优化提高不同活跃度用户体验，提高session深度。
@@ -76,9 +76,9 @@ redirect_from:
 + （学生二作，在投WWW'26）Industry-Scale Online Learning for GLR in E-commerce: An Environment Policy Optimization Approach
   + 离线实验负责人，借助评估器可导性质端到端优化两阶段生成式重排序适应流式场景。
   + 阿里巴巴线上验证（推全）。
-+ （第一作者，在投KDD'26）[QAGCF: Graph Collaborative Filtering for Q&A Recommendation](https://arxiv.org/abs/2406.04828)
++ （第一作者，在投SIGIR'26）[QAGCF: Graph Collaborative Filtering for Q&A Recommendation](https://arxiv.org/abs/2406.04828)
   + 聚焦在问答推荐场景（类似知乎），使用图神经网络解耦用户-问题-回答三元组关系的协同与语义信号，并借助图滤波器解决高度异质性的问题。
-+ （第一作者，在投CIKM'25）[Modeling Domain and Feedback Transitions for Cross-Domain Sequential Recommendation](https://arxiv.org/abs/2408.08209)
++ （第一作者，在投WWW'25）[Modeling Domain and Feedback Transitions for Cross-Domain Sequential Recommendation](https://arxiv.org/abs/2408.08209)
   + 聚焦在跨域序列推荐场景，深挖用户发生的跨域与正负反馈转换的行为。
 + （非第一作者，中稿FCS，入选优青论坛）[A Survey of Controllable Learning: Methods and Applications in Information Retrieval](https://arxiv.org/abs/2407.06083)
   + 可控信息检索综述，旨在让推荐模型在无需重新训练的情况下，动态适应不断变化的任务目标，应对复杂多变的用户/平台需求。
