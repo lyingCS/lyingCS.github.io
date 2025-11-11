@@ -26,7 +26,7 @@ redirect_from:
 
 + 生成式推荐模型（强化学习for推荐系统）
   + _Better exploration and exploitation towards long-term reward!_
-  + KDD + RecSys + SIGIR + NIPS[submitting] + WWW[submitting] + n*LR
+  + KDD + RecSys + SIGIR + ICLR[submitting] + SIGIR[submitting] + WWW[submitting] + n*LR
 + 奖励模型（时长预估模型）
   + _Provide a better reward!_
   + WWW + CIKM + n*LR
@@ -48,7 +48,7 @@ redirect_from:
 论文发表
 ======
 
-四篇第一作者中稿论文、四篇第一作者在投论文、七篇工业界验证/推全论文。
+四篇第一作者中稿论文、四篇第一作者在投论文（两篇独立作者）、七篇工业界验证/推全论文。
 
 + （第一作者，中稿SIGIR'24，评选为Oral）[Reinforcing Long-Term Performance in Recommender Systems with User-Oriented Exploration Policy](https://dl.acm.org/doi/10.1145/3626772.3657714)
   + 使用强化学习进行个性化分位数优化提高不同活跃度用户体验，提高session深度。
@@ -70,7 +70,7 @@ redirect_from:
   + 阿里巴巴线上验证（推全）。
 + （第一作者，中稿EMNLP'25，评选为Poster）Reward Mixology: Crafting Hybrid Signals for Reinforcement Learning Driven In-Context Learning
   + 将示例选取建立为MDP过程，使用强化学习深挖大模型ICL能力。
-+ （单独作者，在投NeurIPS'25）Activity-Driven Quantile Optimization: Dynamic Exploration and Exploitation in Recommender Systems
++ （独立作者，在投ICLR'25）Activity-Driven Quantile Optimization: Dynamic Exploration and Exploitation in Recommender Systems
   + 为不同的用户活跃度设定个性化分位数进行优化，探索低活兴趣并保证高活留存。
   + Tiktok直播线上验证（ab实验显著）。
 + （学生二作，在投WWW'26）Industry-Scale Online Learning for GLR in E-commerce: An Environment Policy Optimization Approach
