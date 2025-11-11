@@ -70,7 +70,7 @@ redirect_from:
   + 阿里巴巴线上验证（推全）。
 + （第一作者，中稿EMNLP'25，评选为Poster）Reward Mixology: Crafting Hybrid Signals for Reinforcement Learning Driven In-Context Learning
   + 将示例选取建立为MDP过程，使用强化学习深挖大模型ICL能力。
-+ （独立作者，在投ICLR'25）Activity-Driven Quantile Optimization: Dynamic Exploration and Exploitation in Recommender Systems
++ （独立作者，在投ICLR'26）Activity-Driven Quantile Optimization: Dynamic Exploration and Exploitation in Recommender Systems
   + 为不同的用户活跃度设定个性化分位数进行优化，探索低活兴趣并保证高活留存。
   + Tiktok直播线上验证（ab实验显著）。
 + （学生二作，在投WWW'26）Industry-Scale Online Learning for GLR in E-commerce: An Environment Policy Optimization Approach
