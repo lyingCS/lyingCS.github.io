@@ -59,7 +59,7 @@ redirect_from:
 + （第一作者，中稿RecSys'25，评选为Spotlight Oral）[Test-Time Alignment for Tracking User Interest Shifts in Sequential Recommendation](https://arxiv.org/abs/2504.01489)
   + 观测到推断时用户会发生兴趣偏移，并在推理时进行自适应调整参数。
   + 在工业界应用有解决实时性问题与更加个性化推荐的前景。
-+ （共同一作，中稿CIKM'25）Towards Unbiased and Real-Time Staytime Prediction for Live Streaming Recommendation
++ （共同一作，中稿CIKM'25）[Towards Unbiased and Real-Time Staytime Prediction for Live Streaming Recommendation](https://dl.acm.org/doi/abs/10.1145/3746252.3761570)
   + 提出直播推荐的两大难点：时效性与预估准确性，并提出多塔分类模型进行debias。
   + Tiktok直播现base主精排模型。
 + （学生二作，中稿KDD'23，评选为Oral）[Controllable Multi-Objective Re-ranking with Policy Hypernetworks](https://dl.acm.org/doi/abs/10.1145/3580305.3599796)
@@ -68,7 +68,7 @@ redirect_from:
 + （学生一作，中稿RecSys'24，评选为Poster）[Do Not Wait: Learning Re-ranking Model Without User Feedback At Serving Time in E-Commerce](https://dl.acm.org/doi/abs/10.1145/3640457.3688165)
   + 离线实验负责人，使用强化学习进行生成式重排序，聚焦在推理时调整模型参数。
   + 阿里巴巴线上验证（推全）。
-+ （第一作者，中稿EMNLP'25，评选为Poster）Reward Mixology: Crafting Hybrid Signals for Reinforcement Learning Driven In-Context Learning
++ （第一作者，中稿EMNLP'25，评选为Poster）[Reward Mixology: Crafting Hybrid Signals for Reinforcement Learning Driven In-Context Learning](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2025.findings-emnlp.234.pdf)
   + 将示例选取建立为MDP过程，使用强化学习深挖大模型ICL能力。
 + （独立作者，在投ICLR'26）Activity-Driven Quantile Optimization: Dynamic Exploration and Exploitation in Recommender Systems
   + 为不同的用户活跃度设定个性化分位数进行优化，探索低活兴趣并保证高活留存。
