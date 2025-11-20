@@ -59,7 +59,7 @@ redirect_from:
 + （第一作者，中稿RecSys'25，评选为Spotlight Oral）[Test-Time Alignment for Tracking User Interest Shifts in Sequential Recommendation](https://arxiv.org/abs/2504.01489)
   + 观测到推断时用户会发生兴趣偏移，并在推理时进行自适应调整参数。
   + 在工业界应用有解决实时性问题与更加个性化推荐的前景。
-+ （共同一作，中稿CIKM'25）[Towards Unbiased and Real-Time Staytime Prediction for Live Streaming Recommendation](https://dl.acm.org/doi/abs/10.1145/3746252.3761570)
++ （共同一作，中稿CIKM'25，评选为Oral）[Towards Unbiased and Real-Time Staytime Prediction for Live Streaming Recommendation](https://dl.acm.org/doi/abs/10.1145/3746252.3761570)
   + 提出直播推荐的两大难点：时效性与预估准确性，并提出多塔分类模型进行debias。
   + Tiktok直播现base主精排模型。
 + （学生二作，中稿KDD'23，评选为Oral）[Controllable Multi-Objective Re-ranking with Policy Hypernetworks](https://dl.acm.org/doi/abs/10.1145/3580305.3599796)
