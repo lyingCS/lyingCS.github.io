@@ -73,6 +73,8 @@ redirect_from:
 + （独立作者，在投ICLR'26）Activity-Driven Quantile Optimization: Dynamic Exploration and Exploitation in Recommender Systems
   + 为不同的用户活跃度设定个性化分位数进行优化，探索低活兴趣并保证高活留存。
   + Tiktok直播线上验证（ab实验显著）。
++ （独立作者，在投SIGIR'26）[Reasoning While Recommending: Entropy-Guided Latent Reasoning in Generative Re-ranking Models](https://arxiv.org/abs/2601.13533)
+  + 在生成式重排序中通过熵引导隐式推理增强推荐性能，合理分配探索与利用，解决列表中部高熵问题。
 + （学生二作，在投WWW'26）Industry-Scale Online Learning for GLR in E-commerce: An Environment Policy Optimization Approach
   + 离线实验负责人，借助评估器可导性质端到端优化两阶段生成式重排序适应流式场景。
   + 阿里巴巴线上验证（推全）。
@@ -80,6 +82,8 @@ redirect_from:
   + 聚焦在问答推荐场景（类似知乎），使用图神经网络解耦用户-问题-回答三元组关系的协同与语义信号，并借助图滤波器解决高度异质性的问题。
 + （第一作者，在投WWW'25）[Modeling Domain and Feedback Transitions for Cross-Domain Sequential Recommendation](https://arxiv.org/abs/2408.08209)
   + 聚焦在跨域序列推荐场景，深挖用户发生的跨域与正负反馈转换的行为。
++ （共同一作，在投ACL'25）[Process In-Context Learning: Enhancing Mathematical Reasoning via Dynamic Demonstration Insertion](https://arxiv.org/abs/2601.11979)
+  + 在推理模型数学推理任务中，通过熵监控与示例检索在推理过程中合适位置添加合适示例，在多个推理任务上取得显著提升。
 + （非第一作者，中稿FCS，入选优青论坛）[A Survey of Controllable Learning: Methods and Applications in Information Retrieval](https://arxiv.org/abs/2407.06083)
   + 可控信息检索综述，旨在让推荐模型在无需重新训练的情况下，动态适应不断变化的任务目标，应对复杂多变的用户/平台需求。
 
