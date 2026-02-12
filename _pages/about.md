@@ -26,7 +26,7 @@ redirect_from:
 
 + 生成式推荐模型（强化学习for推荐系统）
   + _Better exploration and exploitation towards long-term reward!_
-  + KDD + RecSys + SIGIR + ICLR[submitting] + SIGIR[submitting] + WWW[submitting] + n*LR
+  + KDD + RecSys + SIGIR + 2\*SIGIR[submitting] + 2\*KDD[submitting] + n*LR
 + 奖励模型（时长预估模型）
   + _Provide a better reward!_
   + WWW + CIKM + n*LR
@@ -40,10 +40,13 @@ redirect_from:
   + 主导：2\*推全模型，1\*推全策略，4\*LR，1\*新增数据流目标，1\*提出新数据流，中稿WWW一篇。
   + 参与：1\*推全模型。
   + 关键词：视频session时长，互动时机，生成式重排，评论区时长，LT收益。
-+ 2025.03~now，Tiktok，Data-Live（直播）
++ 2025.03~2025.12，Tiktok，Data-Live（直播）
   + 主导：1\*推全模型，多个精排模型迭代，中稿CIKM一篇。
   + 参与：1\*推全模型。
   + 关键词：直播cvr，高时长预估，实时性改善，个性化分位数，低活用户优化，活跃度跃迁。
++ 2025.12~2026.01，百亿私募量化，投资部
+  + 负责高频股票预测，回测年化收益与回撤比率大幅优于基线。
+  + 获得优秀实习生称号。
 
 论文发表
 ======
@@ -75,6 +78,8 @@ redirect_from:
   + Tiktok直播线上验证（ab实验显著）。
 + （独立作者，在投SIGIR'26）[Reasoning While Recommending: Entropy-Guided Latent Reasoning in Generative Re-ranking Models](https://arxiv.org/abs/2601.13533)
   + 在生成式重排序中通过熵引导隐式推理增强推荐性能，合理分配探索与利用，解决列表中部高熵问题。
++ （共同一作，在投KDD'25）Adaptive Exploration via Dual-Entropy Alignment for Streaming Generative Re-ranking
+  + 在生成式重排序中发现模型外生熵与用户内生熵的联系，并通过熵对齐实现自适应探索。
 + （学生二作，在投WWW'26）Industry-Scale Online Learning for GLR in E-commerce: An Environment Policy Optimization Approach
   + 离线实验负责人，借助评估器可导性质端到端优化两阶段生成式重排序适应流式场景。
   + 阿里巴巴线上验证（推全）。
