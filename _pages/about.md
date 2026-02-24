@@ -78,6 +78,8 @@ redirect_from:
   + Tiktok直播线上验证（ab实验显著）。
 + （独立作者，在投SIGIR'26）[Reasoning While Recommending: Entropy-Guided Latent Reasoning in Generative Re-ranking Models](https://arxiv.org/abs/2601.13533)
   + 在生成式重排序中通过熵引导隐式推理增强推荐性能，合理分配探索与利用，解决列表中部高熵问题。
++ （独立作者，在投RecSys'26）Reinforced Diffusion for Adaptive-Order Generative Re-Ranking
+  + 在生成式重排序中通过扩散方式结合强化学习进行生成，避免自回归的误差累积问题。
 + （共同一作，在投KDD'25）Adaptive Exploration via Dual-Entropy Alignment for Streaming Generative Re-ranking
   + 在生成式重排序中发现模型外生熵与用户内生熵的联系，并通过熵对齐实现自适应探索。
 + （学生二作，在投WWW'26）Industry-Scale Online Learning for GLR in E-commerce: An Environment Policy Optimization Approach
