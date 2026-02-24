@@ -51,8 +51,6 @@ redirect_from:
 论文发表
 ======
 
-五篇第一作者中稿论文、六篇第一作者在投论文（两篇独立作者）、七篇工业界验证/推全论文。
-
 + （第一作者，中稿SIGIR'24，评选为Oral）[Reinforcing Long-Term Performance in Recommender Systems with User-Oriented Exploration Policy](https://dl.acm.org/doi/10.1145/3626772.3657714)
   + 使用强化学习进行个性化分位数优化提高不同活跃度用户体验，提高session深度。
   + Tiktok直播线上验证（ab实验显著）。
@@ -79,11 +77,11 @@ redirect_from:
 + （独立作者，在投SIGIR'26）[Reasoning While Recommending: Entropy-Guided Latent Reasoning in Generative Re-ranking Models](https://arxiv.org/abs/2601.13533)
   + 在生成式重排序中通过熵引导隐式推理增强推荐性能，合理分配探索与利用，解决列表中部高熵问题。
 + （独立作者，在投RecSys'26）Reinforced Diffusion for Adaptive-Order Generative Re-Ranking
-  + 在生成式重排序中通过扩散方式结合强化学习进行自适应顺序生成，避免自回归的误差累积问题。
+  + 在生成式重排序中通过扩散方式结合强化学习进行自适应顺序生成，避免自回归的误差累积。
 + （共同一作，在投KDD'25）Adaptive Exploration via Dual-Entropy Alignment for Streaming Generative Re-ranking
-  + 在生成式重排序中发现模型外生熵与用户内生熵的联系，并通过熵对齐实现自适应探索。
+  + 在生成式重排序中发现模型外生熵与用户内生熵的联系，通过熵对齐实现自适应探索。
 + （学生二作，在投WWW'26）Industry-Scale Online Learning for GLR in E-commerce: An Environment Policy Optimization Approach
-  + 离线实验负责人，借助评估器可导性质端到端优化两阶段生成式重排序适应流式场景。
+  + 离线实验负责人，端到端优化两阶段生成式重排序适应流式场景。
   + 阿里巴巴线上验证（推全）。
 + （第一作者，在投SIGIR'26）[QAGCF: Graph Collaborative Filtering for Q&A Recommendation](https://arxiv.org/abs/2406.04828)
   + 聚焦在问答推荐场景（类似知乎），使用图神经网络解耦用户-问题-回答三元组关系的协同与语义信号，并借助图滤波器解决高度异质性的问题。
