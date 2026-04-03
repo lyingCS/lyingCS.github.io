@@ -66,6 +66,8 @@ redirect_from:
   + 阿里巴巴线上验证（推全）。
 + （第一作者，中稿EMNLP'25，评选为Poster）[Reward Mixology: Crafting Hybrid Signals for Reinforcement Learning Driven In-Context Learning](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2025.findings-emnlp.234.pdf)
   + 将示例选取建立为MDP过程，使用强化学习深挖大模型ICL能力。
++ （第一作者，中稿SIGIR'26）[QAGCF: Graph Collaborative Filtering for Q&A Recommendation](https://arxiv.org/abs/2406.04828)
+  + 聚焦在问答推荐场景（类似知乎），使用图神经网络解耦用户-问题-回答三元组关系的协同与语义信号，并借助图滤波器解决高度异质性的问题。
 + （独立作者，在投ICLR'26）Activity-Driven Quantile Optimization: Dynamic Exploration and Exploitation in Recommender Systems
   + 为不同的用户活跃度设定个性化分位数进行优化，探索低活兴趣并保证高活留存。
   + Tiktok直播线上验证（ab实验显著）。
@@ -75,11 +77,9 @@ redirect_from:
   + 在生成式重排序中通过扩散方式结合强化学习进行自适应顺序生成，避免自回归的误差累积。
 + （共同一作，在投KDD'25）Adaptive Exploration via Dual-Entropy Alignment for Streaming Generative Re-ranking
   + 在生成式重排序中发现模型外生熵与用户内生熵的联系，通过熵对齐实现自适应探索。
-+ （学生二作，在投WWW'26）Industry-Scale Online Learning for GLR in E-commerce: An Environment Policy Optimization Approach
++ （学生二作，中稿SIGIR'26）Industry-Scale Online Learning for GLR in E-commerce: An Environment Policy Optimization Approach
   + 离线实验负责人，端到端优化两阶段生成式重排序适应流式场景。
   + 阿里巴巴线上验证（推全）。
-+ （第一作者，在投SIGIR'26）[QAGCF: Graph Collaborative Filtering for Q&A Recommendation](https://arxiv.org/abs/2406.04828)
-  + 聚焦在问答推荐场景（类似知乎），使用图神经网络解耦用户-问题-回答三元组关系的协同与语义信号，并借助图滤波器解决高度异质性的问题。
 + （第一作者，在投WWW'25）[Modeling Domain and Feedback Transitions for Cross-Domain Sequential Recommendation](https://arxiv.org/abs/2408.08209)
   + 聚焦在跨域序列推荐场景，深挖用户发生的跨域与正负反馈转换的行为。
 + （共同一作，在投ACL'25）[Process In-Context Learning: Enhancing Mathematical Reasoning via Dynamic Demonstration Insertion](https://arxiv.org/abs/2601.11979)
